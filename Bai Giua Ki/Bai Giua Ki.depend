@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1590239595 source:c:\users\abc\documents\bai giua ki\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"game.h"
+	<ctime>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+
+1590239800 source:c:\users\abc\documents\bai giua ki\src\game.cpp
+	"game.h"
+
+1590218153 c:\users\abc\documents\bai giua ki\include\game.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+
